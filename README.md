@@ -1,7 +1,11 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+Test di readme per il corso
 
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## capitolo 1
+
+## capitolo 2
