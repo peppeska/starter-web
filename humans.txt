@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	peppeska peppeska@gmail.com
 
 # THANKS
 
