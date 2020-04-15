@@ -14,3 +14,7 @@ sezione
 ## capitolo 1
 
 ## capitolo 2
+
+## Copyright
+
+peppeska 2020
